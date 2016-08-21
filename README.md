@@ -20,4 +20,4 @@ $ npm start
 ```
 Which will fire up Webpack!
 
-You can now see your application at [localhost:8000](http://localhost:8000)
+You can now see your application at [localhost:8080](http://localhost:8080)
